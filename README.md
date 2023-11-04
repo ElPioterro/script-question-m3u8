@@ -9,3 +9,4 @@ I'm dealing with a webiste that has loading screen after it loaded.
 After few seconds all divs and layout shows up - thats why i use runWhenReady function
 
 ..to be continued..
+https://docs.thecodingden.net/community-policy-center/faq/popular
